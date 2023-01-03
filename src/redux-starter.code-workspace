@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Redux/redux-starter"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.formatOnType": true,
+		"editor.formatOnSave": true
+	}
+}
